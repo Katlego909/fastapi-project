@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Michael", "age": 25, "gender": "M", "status": "Inactive"},
+  {"id": 2, "name": "Sthembiso", "age": 53, "gender": "M", "status": "Inactive"},
+  {"id": 3, "name": "Mpho", "age": 21, "gender": "F", "status": "Active"},
+  {"id": 4, "name": "Sello", "age": 45, "gender": "M", "status": "Inactive"},
+  {"id": 5, "name": "Sarah", "age": 22, "gender": "F", "status":  "Inactive"},
+  {"id": 6, "name": "Lesego", "age": 50, "gender": "M", "status": "Active"}
+]
